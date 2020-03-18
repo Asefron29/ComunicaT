@@ -1,7 +1,7 @@
 import "package:flutter/material.dart";
 
 import "package:comunicat/objects/post.dart";
-//Probando cosas
+//Probando cosas 2
 
 class AddPostPage extends StatefulWidget {
   final Color color;
